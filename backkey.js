@@ -4,9 +4,10 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="nomore-ads";
+        location.href="https://ey43.com/4/9148867";
     }
     function goon(){
-        location.href="nomore-ads";
+        location.href="https://ey43.com/4/9148867";
     }
+
 
