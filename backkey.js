@@ -4,10 +4,10 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://blog.pestclue.com/apply-for-germany-jobs-paying-e60000-with-relocation-support/";
+        location.href="nomore-ads";
     }
     function goon(){
-        location.href="https://blog.pestclue.com/apply-for-germany-jobs-paying-e60000-with-relocation-support/";
+        location.href="nomore-ads";
     }
 
 
